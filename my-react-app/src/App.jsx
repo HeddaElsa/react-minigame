@@ -1,10 +1,10 @@
+import API from "./API.jsx"
 
 function App() {
-
-
+  
   return (
   <div>
-    <p>API lesson</p>
+     <API/>
   </div>
   )
 }
