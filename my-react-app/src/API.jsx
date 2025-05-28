@@ -27,6 +27,8 @@ const API = () => {
         return (
         <div className="flex items-center justify-center h-screen bg-black">
             <div className="w-full max-w-xs">
+                <h1 className="text-white text-3xl font-bold text-center mt-8 mb-8">Enter your name - 
+                    <br/> see where you come from</h1>
             <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
             <div className="mb-4">
                 <div className=" shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
